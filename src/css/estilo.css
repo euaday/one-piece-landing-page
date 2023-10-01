@@ -78,7 +78,7 @@ main::after {
 
 .botoes .botao {
     border: none;
-    background-color: #00000000;
+    background-color: #000;
     cursor: pointer;
     border-radius: 50%;
 
